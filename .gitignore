@@ -1,0 +1,7 @@
+
+
+*.log
+.vs/*.js
+ZePortCon/Debug/*
+ZePortCon/Release/*
+ZePortCon/ZePortCon.componentinfo.xml
